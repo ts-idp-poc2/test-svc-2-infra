@@ -21,7 +21,7 @@ spec:
         app: test-svc-2
     spec:
       containers:
-      - image: harbor.idp-poc.tremolo.dev/test-svc-2/mypython:b0c2d4d
+      - image: harbor.idp-poc.tremolo.dev/test-svc-2/mypython:53078c0
         imagePullPolicy: Always
         name: test-svc-2
         resources: {}
